@@ -1,0 +1,45 @@
+body{
+    background-color: pink;
+}
+.main_img{
+    width: 500px;
+    margin: 5%;
+    border-radius: 10px;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0 10px;
+    padding: 5px;
+}
+h1{
+    font-size: 1.5em;
+}
+
+.music-lyrics{
+    display: flex;
+}
+
+.lyrics{
+    white-space: pre-wrap;
+}
+
+.start{
+    font-family: Forum;
+}
+
+.same{
+    font-family: Space Grotesk;
+}
+
+.chorus{
+    font-family: Asap;
+}
+
+.others{
+    font-family: News Cycle;
+    font-weight: inherit;
+}
+
+.video{
+    margin: 5%;
+    border-radius: 10px;
+}
